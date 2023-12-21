@@ -22,10 +22,7 @@ class Router{
             if(preg_match($pattern, $url['path'])){
                 $this->params=$params;
                 return true;
-            }//else {
-           //     $this->params=['controller' => 'Media','action' => 'errorMedia'];
-           //     return true;
-           // }
+            }
         }
         return false;
     }

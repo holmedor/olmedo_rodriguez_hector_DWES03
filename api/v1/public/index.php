@@ -45,15 +45,7 @@ $router->add(
         'action' => 'deleteMedia'
     )
 );
-/*
-$router->add(
-    '/public/media/kk',
-    array(    //404 para un medio
-        'controller' => 'Media',
-        'action' => 'errorMedia'
-    )
-);
-*/
+
 //var_dump($router);
 
 $urlParams = explode('/', $url); //separa en parámetros la url a través de la /
