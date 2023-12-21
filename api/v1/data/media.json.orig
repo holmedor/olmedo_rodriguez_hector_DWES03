@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "titulo": "Zoolook",
+      "ADE": "Jean-Michel Jarre",
+      "medio": "CD"
+    },
+    {
+      "id": 2,
+      "titulo": "Licorice Pizza",
+      "ADE": "Paul Thomas Anderson",
+      "medio": "DVD"
+    },
+    {
+      "id": 3,
+      "titulo": "Muerte de un travesti",
+      "ADE": "Ed Wood Jr.",
+      "medio": "LIBRO"
+    },
+    {
+      "id": 4,
+      "titulo": "Plan 9 from outer space",
+      "ADE": "Ed Wood Jr.",
+      "medio": "DVD"
+    },
+    {
+      "id": 5,
+      "titulo": "Match Point",
+      "ADE": "Woody Allen",
+      "medio": "Bluray"
+    },
+    {
+      "id": 6,
+      "titulo": "Crimen perfecto",
+      "ADE": "Alfred Hitchcock",
+      "medio": "Bluray3D"
+    },
+    {
+      "id": 7,
+      "titulo": "Neuromante",
+      "ADE": "William Gibson",
+      "medio": "LIBRO"
+    },
+    {
+      "id": 8,
+      "titulo": "A propósito de nada",
+      "ADE": "Woody Allen",
+      "medio": "LIBRO"
+    },
+    {
+      "id": 9,
+      "titulo": "Meditaciones de cine",
+      "ADE": "Quentin Tarantino",
+      "medio": "LIBRO"
+    },
+    {
+      "id": 10,
+      "titulo": "Malditos Bastardos",
+      "ADE": "Quentin Tarantino",
+      "medio": "Bluray"
+    }
+  ]
